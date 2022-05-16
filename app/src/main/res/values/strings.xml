@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rconverter</string>
+    <string name="enter_your_input_in_kg">Enter Your Input In Kg</string>
+    <string name="submit">Submit</string>
+</resources>
